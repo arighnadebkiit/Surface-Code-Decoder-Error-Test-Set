@@ -1,0 +1,49 @@
+q0 z18
+q1 z0 z18
+q2 z0 z19
+q3 z1 z19
+q4 z1 z20
+q5 z2 z20
+q6 z2
+q7 z3
+q8 z0 z3
+q9 z0 z4
+q10 z1 z4
+q11 z1 z5
+q12 z2 z5
+q13 z2
+q14 z3
+q15 z3 z6
+q16 z4 z6
+q17 z4 z7
+q18 z5 z7
+q19 z5 z8
+q20 z8
+q21 z9
+q22 z6 z9
+q23 z6 z10
+q24 z7 z10
+q25 z7 z11
+q26 z8 z11
+q27 z8
+q28 z9
+q29 z9 z12
+q30 z10 z12
+q31 z10 z13
+q32 z11 z13
+q33 z11 z14
+q34 z14
+q35 z15
+q36 z12 z15
+q37 z12 z16
+q38 z13 z16
+q39 z13 z17
+q40 z14 z17
+q41 z14
+q42 z15
+q43 z15 z21
+q44 z16 z21
+q45 z16 z22
+q46 z17 z22
+q47 z17 z23
+q48 z23

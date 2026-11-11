@@ -1,0 +1,121 @@
+q0 x0
+q1 x0
+q2 x1
+q3 x1
+q4 x2
+q5 x2
+q6 x3
+q7 x3
+q8 x4
+q9 x4
+q10 x50
+q11 x0 x51
+q12 x0 x5
+q13 x1 x5
+q14 x1 x6
+q15 x2 x6
+q16 x2 x7
+q17 x3 x7
+q18 x3 x8
+q19 x4 x8
+q20 x4 x9
+q21 x9 x50
+q22 x10 x51
+q23 x5 x10
+q24 x5 x11
+q25 x6 x11
+q26 x6 x12
+q27 x7 x12
+q28 x7 x13
+q29 x8 x13
+q30 x8 x14
+q31 x9 x14
+q32 x9 x52
+q33 x10 x53
+q34 x10 x15
+q35 x11 x15
+q36 x11 x16
+q37 x12 x16
+q38 x12 x17
+q39 x13 x17
+q40 x13 x18
+q41 x14 x18
+q42 x14 x19
+q43 x19 x52
+q44 x20 x53
+q45 x15 x20
+q46 x15 x21
+q47 x16 x21
+q48 x16 x22
+q49 x17 x22
+q50 x17 x23
+q51 x18 x23
+q52 x18 x24
+q53 x19 x24
+q54 x19 x54
+q55 x20 x55
+q56 x20 x25
+q57 x21 x25
+q58 x21 x26
+q59 x22 x26
+q60 x22 x27
+q61 x23 x27
+q62 x23 x28
+q63 x24 x28
+q64 x24 x29
+q65 x29 x54
+q66 x30 x55
+q67 x25 x30
+q68 x25 x31
+q69 x26 x31
+q70 x26 x32
+q71 x27 x32
+q72 x27 x33
+q73 x28 x33
+q74 x28 x34
+q75 x29 x34
+q76 x29 x56
+q77 x30 x57
+q78 x30 x35
+q79 x31 x35
+q80 x31 x36
+q81 x32 x36
+q82 x32 x37
+q83 x33 x37
+q84 x33 x38
+q85 x34 x38
+q86 x34 x39
+q87 x39 x56
+q88 x40 x57
+q89 x35 x40
+q90 x35 x41
+q91 x36 x41
+q92 x36 x42
+q93 x37 x42
+q94 x37 x43
+q95 x38 x43
+q96 x38 x44
+q97 x39 x44
+q98 x39 x58
+q99 x40 x59
+q100 x40 x45
+q101 x41 x45
+q102 x41 x46
+q103 x42 x46
+q104 x42 x47
+q105 x43 x47
+q106 x43 x48
+q107 x44 x48
+q108 x44 x49
+q109 x49 x58
+q110 x59
+q111 x45
+q112 x45
+q113 x46
+q114 x46
+q115 x47
+q116 x47
+q117 x48
+q118 x48
+q119 x49
+q120 x49

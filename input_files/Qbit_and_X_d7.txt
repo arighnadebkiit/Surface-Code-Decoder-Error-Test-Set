@@ -1,0 +1,49 @@
+q0 x0
+q1 x0
+q2 x1
+q3 x1
+q4 x2
+q5 x2
+q6 x18
+q7 x0 x19
+q8 x0 x3
+q9 x1 x3
+q10 x1 x4
+q11 x2 x4
+q12 x2 x5
+q13 x5 x18
+q14 x6 x19
+q15 x3 x6
+q16 x3 x7
+q17 x4 x7
+q18 x4 x8
+q19 x5 x8
+q20 x5 x20
+q21 x6 x21
+q22 x6 x9
+q23 x7 x9
+q24 x7 x10
+q25 x8 x10
+q26 x8 x11
+q27 x11 x20
+q28 x12 x21
+q29 x9 x12
+q30 x9 x13
+q31 x10 x13
+q32 x10 x14
+q33 x11 x14
+q34 x11 x22
+q35 x12 x23
+q36 x12 x15
+q37 x13 x15
+q38 x13 x16
+q39 x14 x16
+q40 x14 x17
+q41 x17 x22
+q42 x23
+q43 x15
+q44 x15
+q45 x16
+q46 x16
+q47 x17
+q48 x17

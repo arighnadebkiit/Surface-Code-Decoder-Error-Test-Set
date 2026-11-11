@@ -1,0 +1,37 @@
+# Single data qubit error test set  T_1^x   (distance d = 5)
+# n = 25 data qubits, p = 12 X-stabilizers
+# Row q : syndrome of the X-stabilizers produced by a single Z-error on data qubit q
+# Bit string is LSB-first: leftmost character is stabilizer x0, rightmost is x11
+#
+#  qubit  syndrome bits  fired stabilizers
+  q0      100000000000   x0
+  q1      100000000000   x0
+  q2      010000000000   x1
+  q3      010000000000   x1
+  q4      000000001000   x8
+  q5      100000000100   x0 x9
+  q6      101000000000   x0 x2
+  q7      011000000000   x1 x2
+  q8      010100000000   x1 x3
+  q9      000100001000   x3 x8
+  q10     000010000100   x4 x9
+  q11     001010000000   x2 x4
+  q12     001001000000   x2 x5
+  q13     000101000000   x3 x5
+  q14     000100000010   x3 x10
+  q15     000010000001   x4 x11
+  q16     000010100000   x4 x6
+  q17     000001100000   x5 x6
+  q18     000001010000   x5 x7
+  q19     000000010010   x7 x10
+  q20     000000000001   x11
+  q21     000000100000   x6
+  q22     000000100000   x6
+  q23     000000010000   x7
+  q24     000000010000   x7
+#
+# Degenerate classes (qubits sharing an identical syndrome):
+#   {q0, q1}  ->  100000000000
+#   {q2, q3}  ->  010000000000
+#   {q21, q22}  ->  000000100000
+#   {q23, q24}  ->  000000010000

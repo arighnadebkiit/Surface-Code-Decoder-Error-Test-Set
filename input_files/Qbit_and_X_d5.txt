@@ -1,0 +1,25 @@
+q0 x0
+q1 x0
+q2 x1
+q3 x1
+q4 x8
+q5 x0 x9
+q6 x0 x2
+q7 x1 x2
+q8 x1 x3
+q9 x3 x8
+q10 x4 x9
+q11 x2 x4
+q12 x2 x5
+q13 x3 x5
+q14 x3 x10
+q15 x4 x11
+q16 x4 x6
+q17 x5 x6
+q18 x5 x7
+q19 x7 x10
+q20 x11
+q21 x6
+q22 x6
+q23 x7
+q24 x7
